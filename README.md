@@ -4,36 +4,9 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 
 ## About Me
 
-Hi, I'm **Shrouk**, a passionate UI/UX Designer and mobile application developer specialized in Flutter. With a love for creativity and problem-solving, I enjoy creating seamless user experiences and intuitive designs. I am always eager to learn new technologies and enhance my skills.
-
-- **Skills**: UI/UX Design, Mobile Development, Flutter, Figma, Adobe XD, Web Design, HTML/CSS, JavaScript
-- **Hobbies**: Arts, Crafts, Programming, Photography
-- **Contact**: [Email]
-
 ## Resume
-
-You can download my resume from the link below:
-
-- (Link to your resume PDF)
 
 ## GitHub Projects
 
-Check out my GitHub repositories where I share my personal and collaborative projects.
-
-
-Some of my notable projects include:
-
-1. **Project 1**: Brief description of your first project.
-   - (Link to the project)
-   
-2. **Project 2**: Brief description of your second project.
-   - (Link to the project)
-
-## How to Navigate
-
-- **About**: A brief introduction about me and my background.
-- **Resume**: My professional experience and qualifications.
-- **GitHub Projects**: A collection of my open-source and personal projects.
-- **projects**: some projects.
-
+]
 
