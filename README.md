@@ -16,9 +16,6 @@ You can download my resume from the link below:
 
 - (Link to your resume PDF)
 
-
-- [My Blog](#) (Link to your blog)
-
 ## GitHub Projects
 
 Check out my GitHub repositories where I share my personal and collaborative projects.
@@ -36,7 +33,7 @@ Some of my notable projects include:
 
 - **About**: A brief introduction about me and my background.
 - **Resume**: My professional experience and qualifications.
-- **Blog**: Articles and blog posts on various topics.
 - **GitHub Projects**: A collection of my open-source and personal projects.
+- **projects**: some projects.
 
 
