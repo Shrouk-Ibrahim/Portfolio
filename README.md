@@ -8,7 +8,7 @@ Hi, I'm **Shrouk**, a passionate UI/UX Designer and mobile application developer
 
 - **Skills**: UI/UX Design, Mobile Development, Flutter, Figma, Adobe XD, Web Design, HTML/CSS, JavaScript
 - **Hobbies**: Arts, Crafts, Programming, Photography
-- **Contact**: [Email](mailto:your-email@example.com)
+- **Contact**: [Email]
 
 ## Resume
 
@@ -26,15 +26,14 @@ I write about design, development, and technology trends. Here's the link to my 
 
 Check out my GitHub repositories where I share my personal and collaborative projects.
 
-- [GitHub Profile](https://github.com/your-username)
 
 Some of my notable projects include:
 
 1. **Project 1**: Brief description of your first project.
-   - [GitHub Repo Link](#) (Link to the project)
+   - (Link to the project)
    
 2. **Project 2**: Brief description of your second project.
-   - [GitHub Repo Link](#) (Link to the project)
+   - (Link to the project)
 
 ## How to Navigate
 
