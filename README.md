@@ -14,11 +14,8 @@ Hi, I'm **Shrouk**, a passionate UI/UX Designer and mobile application developer
 
 You can download my resume from the link below:
 
-- [Download Resume](#) (Link to your resume PDF)
+- (Link to your resume PDF)
 
-## Blog
-
-I write about design, development, and technology trends. Here's the link to my blog:
 
 - [My Blog](#) (Link to your blog)
 
